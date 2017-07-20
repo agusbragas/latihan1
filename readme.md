@@ -949,4 +949,4 @@ Test di screen!
 
 and done ! :)
 
-![25-video-hiburan](http://www.sample-videos.com/video/mp4/720/big_buck_bunny_720p_1mb.mp4)
+![25-video-hiburan](https://media.giphy.com/media/q0MleoLGC52Gk/giphy.gif)
