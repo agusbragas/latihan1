@@ -949,4 +949,4 @@ Test di screen!
 
 and done ! :)
 
-![25-video-hiburan](https://media.giphy.com/media/q0MleoLGC52Gk/giphy.gif) tes
+![25-video-hiburan](<iframe width="560" height="315" src="https://www.youtube.com/embed/Zy8R4eIgqsE?ecver=1" frameborder="0" allowfullscreen></iframe>) tes
